@@ -80,12 +80,15 @@ button {
   flex: 1; 
 }
 
-.about .image img {
-  width: 500px;
+.about img {
+  width: 350px;
   height: auto;
-  padding-left: 15%;
-  padding-right: 100px;
   margin-top: 10%;
+  margin: center;
+}
+
+.about{
+  justify-content: center;
 }
 
 .about .text p{
